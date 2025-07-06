@@ -12,8 +12,6 @@
 * Split Dataset into Train data and Test data.
 * Model Training 
 * Performance Metrics of model
-* 
-
 
 ## ML Operations:
 * Supervised 
